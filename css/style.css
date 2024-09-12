@@ -47,4 +47,57 @@ h1{
     font-size: 50px;
     color: white;
     background-color: rgba(232, 119, 116, 0.8);;
+    margin-top: 85px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
 }
+.banner img{
+    height: 300px;
+}
+h2{
+    font-size: 40px;
+    color: #E87774;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.cat{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cat img{
+    height: 200PX;
+    width: 300PX;
+    object-fit: cover;
+    
+}
+.cat h3{
+    font-size: 36px;
+    color: #332838;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cat p{
+    width: 280px;
+    font-size: 18px;
+    color: #332838;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.inzerat{
+    height: auto;
+    width: 300px;
+    background-color: #EAE9F6;
+    color: #332838;
+}
+.inzerat p
