@@ -99,5 +99,9 @@ h2{
     width: 300px;
     background-color: #EAE9F6;
     color: #332838;
+    display: flex;
+    justify-content: center;
 }
-.inzerat p
+.inzerat div{
+    padding: 5px;
+}
