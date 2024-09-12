@@ -12,3 +12,39 @@
     --heading-font: 'Yeseva One', cursive;
     --body-font: 'Poppins', sans-serif;
 }
+.container {
+    width: auto;
+    overflow: hidden;
+    
+}
+.navigation{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    height: 60px;
+    width: 180px;
+    font-family: 'Poppins';
+    color: white;
+    background-color: #e87774;
+    border: none;
+    font-size: 32px;
+
+}
+header {
+    background-color: #e87774;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.logo img{
+    height: 60px;
+}
+h1{
+    z-index: 2;
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    background-color: rgba(232, 119, 116, 0.8);;
+}
